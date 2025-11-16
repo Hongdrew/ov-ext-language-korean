@@ -3,15 +3,17 @@
 ## Installation Guide
 ### Step 1: Import the Language Extension
 
-Download the zip file: omni.kit.language.korean-1.0.0.zip.
+ - Download the zip file: omni.kit.language.korean-1.0.0.zip.
 
-Open the Extension window in Omniverse.
+ - Open the Extension window in Omniverse.
 
-Click the Hamburger menu icon.
+ - Click the Hamburger menu icon.
 
-Select Import Extension.
+ - Select Import Extension.
 
-Locate the downloaded zip file on your drive and import it.
+ - Locate the downloaded zip file on your drive and import it.
+ 
+ - Check AutoLoad and Click RestartAPP
 
 ### Step 2: Set Language in Omniverse
 
