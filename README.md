@@ -1,2 +1,2 @@
 # ov-ext-language-korean
-Omnverse Korean Language Extension 
+Omniverse Korean Language Extension 
