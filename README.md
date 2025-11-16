@@ -17,11 +17,11 @@
 
 ### Step 2: Set Language in Omniverse
 
-Open the Preferences window in Omniverse.
+ - Open the Preferences window in Omniverse.
 
-Click Language in the left sidebar.
+ - Click Language in the left sidebar.
 
-Select ko_KR as your language.
+ - Select ko_KR as your language.
 
 
 
