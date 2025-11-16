@@ -1,7 +1,10 @@
 # Omniverse Korean Language and Font [omni.kit.language.korean]
 
+I’ve tested it, and it seems that Korean can be entered and displayed in USD file properties, and Korean characters in file and folder paths are recognized correctly.
+
 ## Installation Guide
 ### Step 1: Import the Language Extension
+Note: The omni.kit.language.core extension must be installed and enabled first.
 
  - Download the zip file: omni.kit.language.korean-1.0.0.zip.
 
@@ -22,6 +25,8 @@
  - Click Language in the left sidebar.
 
  - Select ko_KR as your language.
+
+   
 
 
 
